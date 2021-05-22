@@ -70,4 +70,4 @@ defaults:
     values:
       permalink: ""
 
-theme: jekyll-theme-modernist
+theme: freelancer-theme
